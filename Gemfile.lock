@@ -15,7 +15,7 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
-    jekyll-archives (2.1.0)
+  #  jekyll-archives (2.1.0)
       jekyll (>= 2.4)
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.4.0)
@@ -44,7 +44,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
-  jekyll-archives
+#  jekyll-archives
   jekyll-paginate
   jekyll-sitemap
 
