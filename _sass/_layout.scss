@@ -87,10 +87,9 @@ pre code.hljs {
 	.scrim {
 		padding: 3em 1em;
 		&.has-cover {
-			background-color: rgba(0,0,0,0.2);
 			padding: 6em 1em !important;
 			@include media($tablet) {
-				padding: 9em 1em !important;
+				padding: 13em 1em !important;
 			}
 		}
 	}
@@ -235,6 +234,7 @@ pre code.hljs {
 	.site-header-container {
 		color: $white;
 		text-shadow: 0 2px 1px rgba(0,0,0,0.33);
+
 		background-color: $highlight-color;
 		.site-header{
 			.title {
