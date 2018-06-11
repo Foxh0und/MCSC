@@ -18,7 +18,7 @@ email: melbournechelseasupporters@live.com.au
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "/home" # the subpath of your site, e.g. /blog/
-url: "http://bencentra.github.io" # the base hostname & protocol for your site
+url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
@@ -38,7 +38,7 @@ highlightjs_theme: "monokai-sublime"
 # Category descriptions (for archive pages)
 descriptions:
   - cat: Membership
-    desc: "Posts describing both local and True Blue Membership"
+    desc: "Posts describing both local and True Blue membership"
 
 # Social icons and sharing options
 #
