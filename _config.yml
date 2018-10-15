@@ -10,7 +10,7 @@ exclude:
 # Site settings
 title: Melbourne Chelsea Supporters Club
 subtitle: "The Home Page of Melbourne Chelsea"
-email: melbournechelseasupporters@live.com.au
+email: admin@melbournechelsea.com.au
 # name: Adam Miritis
 # description: >
 cover: "/assets/header_image.jpg"
@@ -86,6 +86,6 @@ protocols:
 
     twitter_image: "/assets/logo.png"
 
-    os_repo: "https://github.com/bencentra/centrarium.com"
+    os_repo: "https://github.com/foxh0und/mcsc"
     os_rcs_type: "git"
-    os_src: "git@github.com:bencentra/centrarium.com.git"
+    os_src: "git@github.com:foxh0und/mcsc.com.git"
