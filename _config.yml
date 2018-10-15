@@ -33,6 +33,8 @@ highlightjs_theme: "monokai-sublime"
 descriptions:
   - cat: Membership
     desc: "Posts describing both local and True Blue membership"
+  - cat: Information
+    desc: "Posts containing website information"
 
 # Social icons and sharing options
 #
