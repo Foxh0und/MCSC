@@ -15,6 +15,6 @@ We have an assortment of MCSC Merchandise for sale.
 - MCSC bags - $10
 - MCSC Water Bottles - $15
 
-{% include figure.html image="/assets/img/merchandise1.jpg" position="right" width="300" height="800" %}
+{% include figure.html image="/assets/merchandise1.jpg" position="right" width="300" height="800" %}
 
-{% include figure.html image="/assets/img/merchandise2.jpg" position="left" width="300" height="800" %}
+{% include figure.html image="/assets/merchandise2.jpg" position="left" width="300" height="800" %}
