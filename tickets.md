@@ -40,3 +40,5 @@ All the other home Premier League matches are ZERO points needed, via a supporte
 Of course it is nice to try and get to one of these bigger fixtures, but we’d recommend that you target one of the other matches.
 
 Cup matches and group stages of the Champions League will not need points either, but latter stages of cup competitions will likely attract loyalty points.
+
+![StamfordBridge3](/assets/ticket3.jpg)

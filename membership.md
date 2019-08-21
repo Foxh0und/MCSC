@@ -5,6 +5,9 @@ permalink: /membership/
 ---
 We are affiliated with Chelsea FC and are a gold level supporters clubs. We invite each and every Chelesa supporter here in Melbourne to become a local member. 
 
+![membership](/assets/membership1.jpg)
+
+
 ## Benefits
 The membership Fee is $60 for the 2019/2020 season.
 - Membership Card
@@ -20,4 +23,4 @@ The membership Fee is $60 for the 2019/2020 season.
 ![membershippack.jpg](/assets/membershippack.jpg)
 <br>
 
-Should you wish to become a member, please download [this form](/assets/forms/2019.20MembershipForm.docx) and follow the instructions.
+Should you wish to become a member, please download [this form](/assets/forms/201920Membershipform.pdf) and follow the instructions.

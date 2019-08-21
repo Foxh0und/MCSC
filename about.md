@@ -3,10 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+![abouttwo](/assets/about-us.jpg)
 
-<img src="{{ site.baseurl }}/assets/about-us.jpg" title="Profile Picture" class="profile">
 
-We are the official supporters club here in Melbourne for Chelsea FC. We meet regularly to watch games at The Crafty Squire on the corner of Little Collins Street and Russell Street to watch our beloved boys in blue play. We can be contacted by email, Facebook, or Twitter with the links below. Membership is available which comes with many perks.  All are welcome, come down to The Crafty Squire and say hello!
+We are the official supporters club here in Melbourne for Chelsea FC.
+We meet to watch most Chelsea games at The Crafty Squire on the corner of Little Collins Street and Russell Street. We can be contacted by email, Facebook, or Twitter with the links below. Membership is available which comes with many perks.  All are welcome, come down to The Crafty Squire and say hello!
 
 Melbourne Chelsea Supporters Club has existed (in some capacity) since the 1990’s. In nearly 30 years it has come a long way, mainly on the back of live TV broadcasts, the internet and social media, but the essence of the group has been built around meeting up at the pub to watch our beloved Chelsea.
 
@@ -23,7 +24,11 @@ A couple of former player have even made it to our club, Charlie Cooke and Paul 
 - **Ex-Offico Member**: Andy Bates
 - **Ex-Offico Member**: John Dady
 
-<br><br>
+<br>
+
+<br>
+
+![abouttwo](/assets/about2.jpg)
 
 # Posts
 
