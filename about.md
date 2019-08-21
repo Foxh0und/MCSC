@@ -8,14 +8,12 @@ permalink: /about/
 
 We are the official supporters club here in Melbourne for Chelsea FC. We meet regularly to watch games at The Crafty Squire on the corner of Little Collins Street and Russell Street to watch our beloved boys in blue play.. We can be contacted by email, Facebook, or Twitter with the links below. Membership is available which comes with many perks.  All are welcome, come down to The Crafty Squire and say hello!
 
-<div class="center">
-  - **Secretary**: Russell Saunders
-  - **Chairman**: Daniel Thorne
-  - **Treasurer**: Adam Miritis
-  - **Ex-Offico Member**: Kosta Moussageas
-  - **Ex-Offico Member**: Andy Bates
-  - **Ex-Offico Member**: John Dady
-</div>
+- **Secretary**: Russell Saunders
+- **Chairman**: Daniel Thorne
+- **Treasurer**: Adam Miritis
+- **Ex-Offico Member**: Kosta Moussageas
+- **Ex-Offico Member**: Andy Bates
+- **Ex-Offico Member**: John Dady
 
 {% for category in site.categories %}
   {% capture cat %}{{ category | first }}{% endcapture %}
