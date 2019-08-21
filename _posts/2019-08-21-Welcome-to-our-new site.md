@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to our new site!"
-date:   2018-10-15
+date:   2019-08-21
 author: Adam Miritis
 categories: Information
 ---
