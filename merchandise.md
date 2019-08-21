@@ -15,7 +15,10 @@ We have an assortment of MCSC Merchandise for sale.
 - MCSC Bags - $10
 - MCSC Water Bottle - $15
 
-To make a purchase, please send us an [email](mailto:admin@melbournechelsea.com.au)
+To make a purchase, please send us an [email](mailto:admin@melbournechelsea.com.au).
 
 ![MerchandiseOne](/assets/merchandise1.jpg)
+
+<br>
+
 ![MerchandiseTwo](/assets/membershippack.jpg)
