@@ -21,7 +21,7 @@ We are the official supporters club here in Melbourne for Chelsea FC. We meet re
 
 {% for category in site.categories %}
   {% capture cat %}{{ category | first }}{% endcapture %}
-  <h3 id="{{cat}}">{{ cat | capitalize }}</h2>
+  <h3 id="{{cat}}">{{ cat | capitalize }}</h3>
   <ul class="posts-list">
   {% for post in site.categories[cat] %}
     <li>
