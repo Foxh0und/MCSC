@@ -15,14 +15,13 @@ We are the official supporters club here in Melbourne for Chelsea FC. We meet re
 - **Ex-Offico Member**: Andy Bates
 - **Ex-Offico Member**: John Dady
 
+<br><br>
+
+# Posts
+
 {% for category in site.categories %}
   {% capture cat %}{{ category | first }}{% endcapture %}
-  <h2 id="{{cat}}">{{ cat | capitalize }}</h2>
-  {% for desc in site.descriptions %}
-    {% if desc.cat == cat %}
-      <p class="desc"><em>{{ desc.desc }}</em></p>
-    {% endif %}
-  {% endfor %}
+  <h3 id="{{cat}}">{{ cat | capitalize }}</h2>
   <ul class="posts-list">
   {% for post in site.categories[cat] %}
     <li>
