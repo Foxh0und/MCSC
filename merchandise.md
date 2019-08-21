@@ -17,12 +17,5 @@ We have an assortment of MCSC Merchandise for sale.
 
 To make a purchase, please send us an [email](mailto:admin@melbournechelsea.com.au)
 
- <div class="row">
-  <div class="column">
-    <img src="{{ site.baseurl }}/assets/merchandise1.jpg" title="Merchandise One" class="profile">
-  </div>
-  <div class="column">
-    <img src="{{ site.baseurl }}/assets/membershippack.jpg" title="Merchandise Two" class="profile">
-  </div>
-</div> 
-
+![MerchandiseOne](/assets/merchandise1.jpg)
+![MerchandiseTwo](/assets/membershippack.jpg)
