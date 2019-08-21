@@ -21,7 +21,7 @@ We have an assortment of MCSC Merchandise for sale.
     <img src="{{ site.baseurl }}/assets/merchandise1.jpg" title="Merchandise One" class="profile">
   </div>
   <div class="column">
-    <img src="{{ site.baseurl }}/assets/merchandise2.jpg" title="Merchandise Two" class="profile">
+    <img src="{{ site.baseurl }}/assets/membershippack.jpg" title="Merchandise Two" class="profile">
   </div>
 </div> 
 
