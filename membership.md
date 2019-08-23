@@ -9,7 +9,6 @@ We run a local membership that is available to all Chelsea Supporters in Melbour
 
 
 ## Benefits
-The membership Fee is $60 for the 2019/2020 season.
 - Membership Card
 - Membership Badge
 - $25 meal voucher to use at The Crafty Squire
@@ -24,6 +23,8 @@ The membership Fee is $60 for the 2019/2020 season.
 <br>
 
 The membership Fee is $60 for the 2019/2020 season plus we discount the fee for country Victoria, family/friends and inter-state supporters. Please see the [tickets page](https://www.melbournechelsea.com.au/tickets/) if you plan to travel to London. 
+
+Please fill in [this form](/assets/forms/201920Membershipform.pdf) and follow the instructions.
 
 
 ## Events
