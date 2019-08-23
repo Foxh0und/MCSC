@@ -5,16 +5,16 @@ permalink: /photos/
 ---
 Some past photos of previous MCSC events and occasions.
 
-![one](/photos/one.jpg)
+![one](assets/photos/one.jpg)
 
-![two](/photos/two.jpg)
+![two](assets/photos/two.jpg)
 
-![three](/photos/three.jpg)
+![three](assets/photos/three.jpg)
 
-![four](/photos/four.jpg)
+![four](assets/photos/four.jpg)
 
-![five](/photos/five.jpg)
+![five](assets/photos/five.jpg)
 
-![six](/photos/six.jpg)
+![six](assets/photos/six.jpg)
 
-![seven](/photos/seven.jpg)
+![seven](assets/photos/seven.jpg)
