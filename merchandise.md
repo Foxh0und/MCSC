@@ -8,10 +8,8 @@ We have an assortment of MCSC Merchandise for sale. Prices are discounted for al
 
 - MCSC Cap - $25
 - MCSC Scarf - $25
-- MCSC Bumper Stickers - $6 each or 2 for $10.
-- MCSC T-Shirt - $30 (only a few Medium size remain)
+- MCSC Bumper Stickers - $3 each or 2 for $5.
 - MCSC Keep Cups - $20
-- MSCS Keyring Bottle Opener - $15
 - MCSC Bags - $15
 - MCSC Water Bottle - $20
 
