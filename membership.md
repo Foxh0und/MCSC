@@ -3,7 +3,8 @@ layout: page
 title: Membership
 permalink: /membership/
 ---
-We are affiliated with Chelsea FC and are a gold level supporters clubs. We invite each and every Chelesa supporter here in Melbourne to become a local member. 
+We run a local membership that is available to all Chelsea Supporters in Melbourne, Victoria and even International supporters.
+Please see the [tickets page](https://www.melbournechelsea.com.au/tickets/) if you plan to travel to London. 
 
 ![membership](/assets/membership1.jpg)
 
