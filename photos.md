@@ -7,6 +7,8 @@ Some past photos of previous MCSC events and occasions.
 
 ![one](/assets/photos/one.jpg)
 
+![mattpreston](/assets/photos/mattpreston.jpg)
+
 ![two](/assets/photos/two.jpg)
 
 ![three](/assets/photos/three.jpg)
