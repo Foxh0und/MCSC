@@ -1,11 +1,11 @@
 ---
 layout: page
-title: The Crafty Squire
-permalink: /thecraftysquire/
+title: Our Pub
+permalink: /ourpub/
 ---
 The Crafty Squire is the home of MCSC. Located at 127 Russell Street, just on the Corner of Little Collins, The Squire is home of the famous James Squire Brewhouse, the only working microbrewery in Melbourne’s CBD. It is a fantastic venue with suburb atmosphere for all sports loving fans.
 
-All MCSC members receive a 20% discount at the pub, whether there is a Chelsea match on or not!
+All MCSC members receive a 20% discount at the pub using the Australian Venue Company App, whether there is a Chelsea match on or not! You’ll need the voucher code from us.
 
 <br>
 
