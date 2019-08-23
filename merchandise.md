@@ -19,4 +19,4 @@ To make a purchase, please send us an [email](mailto:admin@melbournechelsea.com.
 
 <br>
 
-![MerchandiseTwo](/assets/membershippack.jpg)
+![MerchandiseTwo](/assets/merchandise2.jpg)
