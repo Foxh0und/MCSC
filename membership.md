@@ -24,7 +24,8 @@ The membership Fee is $60 for the 2019/2020 season.
 ![membershippack.jpg](/assets/membershippack.jpg)
 <br>
 
-Should you wish to become a member, please download [this form](/assets/forms/201920Membershipform.pdf) and follow the instructions.
+The membership Fee is $60 for the 2019/2020 season plus we discount the fee for country Victoria, family/friends and inter-state supporters
+
 
 ## Events
 Every season we like to run events for our members, so please come along and check them out.
@@ -32,7 +33,7 @@ Every season we like to run events for our members, so please come along and che
 - **Season Launch**: Come down to The Crafty Squire as we take on Norwich for the 9:30 PM kick off on Saturday the 24th of August
 - **Foot Golf**: The Terry Cork cup will be played in mid to late November.
 - **Fifa Competition**: At The Crafty Squire a lunchtime Fifa PS4 Competition
-- **Christmas Party**: TBA
+- **Christmas Party**: We arrange a pub party, usually the last match before the 25th, and also an event at a different venue. We’ve been to the races at Moonee Valley, Lawn Bowls and 10 pin bowling.
 
 ![terrycorkcup](/assets/membershipcomp.jpg)
 
