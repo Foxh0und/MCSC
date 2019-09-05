@@ -41,4 +41,14 @@ Of course it is nice to try and get to one of these bigger fixtures, but we’d 
 
 Cup matches and group stages of the Champions League will not need points either, but latter stages of cup competitions will likely attract loyalty points.
 
+As well as loyalty points with Chelsea for each season, we’d love you to remain loyal to this ability for getting home match tickets. The only reason we can help Chelsea fans from our part of the world is if there are another 29 other people willing to buy the membership. If they don’t, then we can’t help. It’s as simple as that.
+So, on the rare occasions that the Chelsea Box office ask us to have an order of preference (when we have a number of members going to one match, usually a category AA match) then we will determine who goes where on the list by the following criteria.
+
+1. Length of Chelsea FC (True Blue) membership
+2. Length of Chelsea FC and Melbourne Chelsea Membership
+3. Length of Melbourne Chelsea membership
+4. Date of when Chelsea FC membership was bought for the season that the match is in.
+
+Ultimately we want people to keep helping other supporters. It doesn’t work without that.
+
 ![StamfordBridge3](/assets/ticket3.jpg)
