@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tickets
-permalink: /tickets/
+title: Visit Stamford Bridge
+permalink: /stamfordbridge/
 ---
 In case you're not a follower on social media etc., the Melbourne Chelsea Supporters Club does have the ability to help with tickets for matches at Stamford Bridge. You can be in Country Victoria, also Tasmania, to gain our help. 
 There are other clubs in Australia with the same ability and you must choose your closest.
