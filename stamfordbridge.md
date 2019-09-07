@@ -9,7 +9,7 @@ There are other clubs in Australia with the same ability and you must choose you
 ![StamfordBridge1](/assets/ticket1.jpg)
 
 <br>
-There have been plenty of stories of people paying excessive amounts for a match ticket via ticket agencies in London and also via ‘touts’ (scalpers) near the ground, but the benefit via a Supporters Club these crazy prices are avoided. You pay the advertised price. It also avoids the trouble of you going online yourself, to the Chelsea website and trying to buy, when there is a very good chance that the match will sell out, especially the bigger fixtures.
+There have been plenty of stories of people paying excessive amounts for a match ticket via ticket agencies in London and also via ‘touts’ (scalpers) near the ground, but the benefit via a Supporters Club these extortionate prices are avoided. You pay the members price that is listed on the Chelsea website, and we save you the trouble of going online, when there is a very good chance that the match will sell out, especially the bigger fixtures.
 
 
 If you're planning a trip, then anyone who wants to go to a match MUST buy a
@@ -50,5 +50,7 @@ So, on the rare occasions that the Chelsea Box office ask us to have an order of
 4. Date of when Chelsea FC membership was bought for the season that the match is in.
 
 Ultimately we want people to keep helping other supporters. It doesn’t work without that.
+
+**#getinvolvedandstayinvolved**
 
 ![StamfordBridge3](/assets/ticket3.jpg)
