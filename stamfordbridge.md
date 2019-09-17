@@ -15,7 +15,7 @@ There have been plenty of stories of people paying excessive amounts for a match
 If you're planning a trip, then anyone who wants to go to a match MUST buy a
 [Chelsea (True Blue) Membership](https://www.chelseafc.com/en/tickets---membership/membership). One ticket per membership.
 
-To gain our assistance, you must also be a member of our local club.
+To gain our assistance, you must also be a member of our local club (see the Membership tab).
 
 
 It is critical for some of the bigger fixtures that you buy the membership before 
