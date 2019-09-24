@@ -43,4 +43,4 @@ The inaugural Foot Golf tournament 11/2/2017 with former player Paul Canoville i
 ## Register your affiliation with us with Chelsea
 Why not register with Melbourne via the [Fifth Stand app](https://apps.apple.com/au/app/chelsea-fc-the-5th-stand/id1353142218) too? Simply click on connect, search for "Melbourne", and join the club. We'd love to get as many as possible and it takes just 2 minutes to do it.
 
-**Please Note** this does not make you a paid up meber of MCSC.
+**Please Note** this does not make you a paid up member of MCSC.
