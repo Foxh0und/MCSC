@@ -38,3 +38,9 @@ Every season we like to run events for our members, so please come along and che
 ![terrycorkcup](/assets/membershipcomp.jpg)
 
 The inaugural Foot Golf tournament 11/2/2017 with former player Paul Canoville in attendance. Now named "The Terry Cork Cup", we have run the competition 4 times since at the course in Upper Beaconsfield.
+
+
+## Register your affiliation with us with Chelsea
+Why not register with Melbourne via the [Fifth Stand app](https://apps.apple.com/au/app/chelsea-fc-the-5th-stand/id1353142218) too? Simply click on connect, search for "Melbourne", and join the club.
+
+**Please Note** this does not make you a paid up meber of MCSC.
