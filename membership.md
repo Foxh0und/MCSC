@@ -21,8 +21,7 @@ We run a local membership that is available to all Chelsea Supporters in Melbour
 ![membershippack.jpg](/assets/membershippack.jpg)
 <br>
 
-The membership Fee is $60 for the 2019/2020 season plus we discount the fee for country Victoria, family/friends and inter-state supporters.  
-Please fill in [this form](/assets/forms/201920Membershipform.docx) and follow the instructions to become a member!
+Membership for the 2019/2020 season is closed, but we will be opening up for next season's membership soon. 
 
 Please refer to the the [tickets page](https://www.melbournechelsea.com.au/tickets/) if you plan to travel to London.
 
