@@ -11,7 +11,7 @@ We run a local membership that is available to all Chelsea Supporters in Melbour
 - Membership Card
 - Membership Badge
 - $25 meal voucher to use at The Crafty Squire - via their App
-- Bumper sticker
+- MCSC Sticker
 - An emailed newsletter every 2-3 months
 - MCSC Hand Towel
 - Discount for members events
