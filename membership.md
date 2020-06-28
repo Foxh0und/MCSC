@@ -7,13 +7,13 @@ We run a local membership that is available to all Chelsea Supporters in Melbour
 
 ![membership](/assets/membership1.jpg)
 
-## Benefits
+## Benefits for 2020/21
 - Membership Card
 - Membership Badge
-- $25 meal voucher to use at The Crafty Squire
-- Merchandise for this season – Beanie and bottle opener keyring
+- $25 meal voucher to use at The Crafty Squire - via their App
 - Bumper sticker
 - An emailed newsletter every 2-3 months
+- MCSC Hand Towel
 - Discount for members events
 - Discount on from the [CFC Megastore](https://www.chelseamegastore.com)
 
