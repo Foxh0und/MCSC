@@ -27,9 +27,8 @@ Please refer to the the [Stamford Bridge page](https://www.melbournechelsea.com.
 
 
 ## Events
-Every season we like to run events for our members, so please come along and check them out.
+We run Xmas parties, Foot Golf tournaments and other events throughout the season for members.
 
-- **Season Launch**: Come down to The Crafty Squire as we take on Norwich for the 9:30 PM kick off on Saturday the 24th of August
 - **Foot Golf**: The Terry Cork cup will be played in mid to late November.
 - **Fifa Competition**: At The Crafty Squire a lunchtime Fifa PS4 Competition
 - **Christmas Party**: We arrange a pub party, usually the last match before the 25th, and also an event at a different venue. We’ve been to the races at Moonee Valley, Lawn Bowls and 10 pin bowling.
