@@ -15,13 +15,13 @@ We run a local membership that is available to all Chelsea Supporters in Melbour
 - An emailed newsletter every 2-3 months
 - MCSC Hand Towel
 - Discount for members events
-- Discount on from the [CFC Megastore](https://www.chelseamegastore.com)
 
+Membership is open for 2020/21, please edit [this](/assets/membershipform.docx) word document and return via email. Payment details are within the form. Please email if there are any concerns.
 <br>
 ![membershippack.jpg](/assets/membershippack.jpg)
 <br>
 
-Membership for the 2019/2020 season is closed, but we will be opening up for next season's membership soon. 
+
 
 Please refer to the the [Stamford Bridge page](https://www.melbournechelsea.com.au/stamfordbridge/) if you plan to travel to London.
 
