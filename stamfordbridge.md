@@ -4,17 +4,22 @@ title: Visit Stamford Bridge
 permalink: /stamfordbridge/
 ---
 
-With the situation around Covid-19 we still don’t know when season 2020/21 will begin. We also don’t know when travel restrictions will be eased and when supporters would be let back into football matches in the UK.
-It is our advice that if you had planned to go to see Chelsea next season, that you delay for a season at least.
-
-We will update details on this section when we know more.
+Season 2020/21 starts on the second weekend of september. There have been suggestions of 40% of the capacity being allowed into the ground. Chelsea have around 25K Season Ticket holders, so we imagine that they will be occupying the allocation. 
+At the time of writing (end of July), the box office have not communicated any details for us.
+Our advice would be not to travel for the 2020/21 season.
 The local membership will be running for 2020/21 and details on that can be found on our [Membership Page](https://www.melbournechelsea.com.au/membership/).
+<br>
+
+Information below on this page is how the system works under normal circumstances.
+<br>
+
+
+![StamfordBridge1](/assets/ticket1.jpg)
+
 <br>
 
 In case you're not a follower on social media etc., the Melbourne Chelsea Supporters Club does have the ability to help with tickets for matches at Stamford Bridge. You can be in Country Victoria, also Tasmania, to gain our help. 
 There are other clubs in Australia with the same ability and you must choose your closest.
-
-![StamfordBridge1](/assets/ticket1.jpg)
 
 <br>
 There have been plenty of stories of people paying excessive amounts for a match ticket via ticket agencies in London and also via ‘touts’ (scalpers) near the ground, but the benefit via a Supporters Club these extortionate prices are avoided. You pay the members price that is listed on the Chelsea website, and we save you the trouble of going online, when there is a very good chance that the match will sell out, especially the bigger fixtures.
