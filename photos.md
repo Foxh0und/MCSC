@@ -20,3 +20,11 @@ Some past photos of previous MCSC events and occasions.
 ![six](/assets/photos/six.jpg)
 
 ![seven](/assets/photos/seven.jpg)
+
+![eight](/assets/photos/eight.jpg)
+
+![nine](/assets/photos/nine.jpg)
+
+![ten](/assets/photos/ten.jpg)
+
+![eleven](/assets/photos/eleven.jpg)
