@@ -18,11 +18,12 @@ As part of the membership we have run plenty of functions over the years, as kic
 A couple of former player have even made it to our club, Charlie Cooke and Paul Canoville.
 
 - **Secretary**: Russell Saunders
-- **Chairman**: Daniel Thorne
-- **Treasurer**: Adam Miritis
-- **Ex-Offico Member**: Kosta Moussageas
+- **Chairman**: John Dady
+- **Treasurer**: Daniel Thorne
 - **Ex-Offico Member**: Andy Bates
-- **Ex-Offico Member**: John Dady
+- **Ex-Offico Member**: Matt Patterson
+- **Ex-Offico Member**: Jocky Clelland
+- **IT Administrator**: Adam Miritis
 
 <br>
 
