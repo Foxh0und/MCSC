@@ -12,6 +12,8 @@ We have an assortment of MCSC Merchandise for sale. Prices are discounted for al
 - MCSC Keep Cup - $20
 - MCSC Bag - $15
 - MCSC Water Bottle - $20
+- MCSC Keyring - $5
+- MCSC Beanie  - $20
 
 To make a purchase, please send us an [email](mailto:admin@melbournechelsea.com.au).
 
