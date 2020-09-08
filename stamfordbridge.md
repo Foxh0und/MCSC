@@ -4,12 +4,12 @@ title: Visit Stamford Bridge
 permalink: /stamfordbridge/
 ---
 
-Season 2020/21 starts on the second weekend of september. There have been suggestions of 40% of the capacity being allowed into the ground. Chelsea have around 25K Season Ticket holders, so we imagine that they will be occupying the allocation. 
+Season 2020/21 starts on the second weekend of September. There have been suggestions of 40% of the capacity being allowed into the ground. Chelsea have around 25K Season Ticket holders, so we imagine that they will be occupying the allocation. 
 
 At the time of writing (end of July), the box office have not communicated any details for us.
 Our advice would be not to travel for the 2020/21 season.
 
-The local membership will be running for 2020/21 and details on that can be found on our [Membership Page](https://www.melbournechelsea.com.au/membership/).
+The local membership is running for 2020/21 and details on that can be found on our [Membership Page](https://www.melbournechelsea.com.au/membership/).
 <br>
 
 Information below on this page is how the system works under normal circumstances.
