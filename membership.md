@@ -10,7 +10,7 @@ We run a local membership that is available to all Chelsea Supporters in Melbour
 ## Benefits for 2020/21
 - Membership Card
 - Membership Badge
-- MCSC Sticker
+- MCSC Bumper Sticker
 - An emailed newsletter every 2-3 months
 - MCSC Hand Towel
 - Discount for members events
