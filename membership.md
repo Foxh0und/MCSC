@@ -10,24 +10,24 @@ We run a local membership that is available to all Chelsea Supporters in Melbour
 ## Benefits for 2020/21
 - Membership Card
 - Membership Badge
-- $25 meal voucher to use at The Crafty Squire - via their App
 - MCSC Sticker
 - An emailed newsletter every 2-3 months
 - MCSC Hand Towel
 - Discount for members events
 
-Membership is open for 2020/21, please edit [this](/assets/membershipform.docx) word document and return via email. Payment details are within the form. Please email if there are any concerns.
+Membership is open for 2020/21, please edit [this word document](/assets/membershipform.docx) and return via email. Payment details are within the form. Please email if there are any concerns.
 <br>
 ![membershippack.jpg](/assets/membershippack.jpg)
+![membershippack2.jpg](/assets/membershippack2.jpg)
 <br>
 
 
 
-Please refer to the the [Stamford Bridge page](https://www.melbournechelsea.com.au/stamfordbridge/) if you plan to travel to London.
+Please refer to the the [Stamford Bridge page](https://www.melbournechelsea.com.au/stamfordbridge/) if you plan to travel to London, but we do not advise travel for the 2020/21 season.
 
 
 ## Events
-We run Xmas parties, Foot Golf tournaments and other events throughout the season for members.
+We run Xmas parties, Foot Golf tournaments and other events throughout the season for members. For this season, events will be worked around any existing restrictions with Covid 19. Hopefully held at Christmas and into the New Year.
 
 - **Foot Golf**: The Terry Cork cup will be played in mid to late November.
 - **Fifa Competition**: At The Crafty Squire a lunchtime Fifa PS4 Competition
