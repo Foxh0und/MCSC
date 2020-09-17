@@ -18,7 +18,9 @@ We run a local membership that is available to all Chelsea Supporters in Melbour
 Membership is open for 2020/21, please edit [this word document](/assets/membershipform.docx) and return via email. Payment details are within the form. Please email if there are any concerns.
 <br>
 ![membershippack.jpg](/assets/membershippack.jpg)
+<br>
 ![membershippack2.jpg](/assets/membershippack2.jpg)
+<br>
 ![membershipbadges.jpg](/assets/membershipbadges.jpg)
 <br>
 
