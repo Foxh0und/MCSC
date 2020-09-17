@@ -19,6 +19,7 @@ Membership is open for 2020/21, please edit [this word document](/assets/members
 <br>
 ![membershippack.jpg](/assets/membershippack.jpg)
 ![membershippack2.jpg](/assets/membershippack2.jpg)
+![membershipbadges.jpg](/assets/membershipbadges.jpg)
 <br>
 
 
