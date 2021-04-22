@@ -7,23 +7,13 @@ We run a local membership that is available to all Chelsea Supporters in Melbour
 
 ![membership](/assets/membership1.jpg)
 
-## Benefits for 2020/21
-- Membership Card
-- Membership Badge
-- MCSC Bumper Sticker
-- An emailed newsletter every 2-3 months
-- MCSC Hand Towel
-- Discount for members events
-
-Membership is open for 2020/21, please edit [this word document](/assets/membershipform.docx) and return via email. Payment details are within the form. Please email if there are any concerns.
-<br>
-![membershippack.jpg](/assets/membershippack.jpg)
-<br>
-![membershippack2.jpg](/assets/membershippack2.jpg)
 <br>
 ![membershipbadges.jpg](/assets/membershipbadges.jpg)
 <br>
 
+
+Memberships for the 2021/22 season will be available from July 2021.
+Prices and merchandise details will be posted here then.
 
 
 Please refer to the the [Stamford Bridge page](https://www.melbournechelsea.com.au/stamfordbridge/) if you plan to travel to London, but we do not advise travel for the 2020/21 season.
