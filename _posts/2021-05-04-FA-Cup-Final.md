@@ -12,4 +12,4 @@ Our Melbourne home for watching matches,The Crafty Squire, will be open for our 
 Refer to our social media posts for any further details or email admin@melbournechelsea.com.au
 KTBFFH
 
-![trophy](assets/posts/facup2021.jpg)
+![trophy](/assets/posts/facup2021.jpg)
