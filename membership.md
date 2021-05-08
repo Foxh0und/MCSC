@@ -31,6 +31,6 @@ We run Xmas parties, Foot Golf tournaments and other events throughout the seaso
 ## The Fifth Stand App
 Chelsea FC have the [Fifth Stand App](https://apps.apple.com/au/app/chelsea-fc-the-5th-stand/id1353142218) and you can join the Melbourne club via that forum. We'd love to get as many as possible on that list and it takes just 2 minutes to do it.
 
-![fifthstandqr](assets/fifthstandqr.jpg)
+![fifthstandqr](assets/QRCode.jpg)
 
 **Note** this does not give you the same local Melbourne privileges as filling out the word doc and paying us a membership fee.
