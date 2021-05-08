@@ -13,7 +13,7 @@ We run a local membership that is available to all Chelsea Supporters in Melbour
 
 <br>
 
-![membershippack.jpg](/assets/membershipbadges.jpg)
+![membershippack.jpg](/assets/membershippack.jpg)
 
 
 <br>
