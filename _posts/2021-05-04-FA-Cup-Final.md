@@ -3,7 +3,7 @@ layout: post
 title:  "FA Cup Final"
 date:   2021-05-04 12:28:59
 author: Russ Saunders
-categories: Information
+categories: Events
 ---
 Our Melbourne home for watching matches,The Crafty Squire, will be open for our FA Cup Final against Leicester. 
 
