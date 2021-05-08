@@ -13,6 +13,10 @@ We run a local membership that is available to all Chelsea Supporters in Melbour
 
 <br>
 
+![membershippack.jpg](/assets/membershipbadges.jpg)
+
+
+<br>
 
 Memberships for the 2021/22 season will be available from July 2021.
 Prices and merchandise details will be posted here then.
