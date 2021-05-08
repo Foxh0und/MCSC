@@ -28,12 +28,9 @@ We run Xmas parties, Foot Golf tournaments and other events throughout the seaso
 - **Fifa Competition**: At The Crafty Squire a lunchtime Fifa PS4 Competition
 - **Christmas Party**: We arrange a pub party, usually the last match before the 25th, and also an event at a different venue. We’ve been to the races at Moonee Valley, Lawn Bowls and 10 pin bowling.
 
-![terrycorkcup](/assets/membershipcomp.jpg)
-
-The inaugural Foot Golf tournament 11/2/2017 with former player Paul Canoville in attendance. Now named "The Terry Cork Cup", we have run the competition 4 times since at the course in Upper Beaconsfield.
-
-
 ## The Fifth Stand App
 Chelsea FC have the [Fifth Stand App](https://apps.apple.com/au/app/chelsea-fc-the-5th-stand/id1353142218) and you can join the Melbourne club via that forum. We'd love to get as many as possible on that list and it takes just 2 minutes to do it.
+
+![fifthstandqr](fifthstandqr.jpg)
 
 **Note** this does not give you the same local Melbourne privileges as filling out the word doc and paying us a membership fee.
