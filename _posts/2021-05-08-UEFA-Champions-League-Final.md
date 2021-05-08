@@ -3,7 +3,7 @@ layout: post
 title:  "UEFA Champions League Final"
 date:   2021-05-08 15:28:59
 author: Russ Saunders
-categories: Information
+categories: Events
 ---
 For the Champions League Final, TCS will be open through Saturday night and it will be “first in, best dressed” for anyone.
 
