@@ -9,7 +9,7 @@ Our Melbourne home for watching matches,The Crafty Squire, will be open for our 
 Plus, they will be open for the Champions League Final on Sunday 30th May, against Man City, kick off 5am.
 
 Please refer to our social media posts (Twitter, Facebook, Instagram) where we are running an offer for 2021/22 membership, until Friday May 14th 2021.
-Buying that membership now would put you with the supporters are currently in the local membership and they interact throughout the year together.
+Buying that membership now would put you with the supporters who are currently in the local membership and they interact throughout the year together.
 More importantly, it would put you with us for both finals this month, if you wanted.
 Look at the Membership tab as to what is on offer for next season.
 
