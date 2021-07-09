@@ -4,10 +4,7 @@ title: Visit Stamford Bridge
 permalink: /stamfordbridge/
 ---
 
-May 8th 2021 – Supporters will be back for the last two home matches, 8k total though.
-We assume that Chelsea will be running their memberships for next season and that capacity will rise significantly.
-However, travelling from Australia may well be the bigger hurdle as the vaccinations are not as frequent as other parts of the world.
-The sensible thing may well be to defer any visit you hoped to make for yet another season.
+Whilst capacity in stadiums is rising, travelling from Australia may well be the bigger hurdle as the vaccinations are not as frequent as other parts of the world.The sensible thing may well be to defer any visit you hoped to make for yet another season. However if you plan on going across this season, you will need to get your MCSC and Chelsea True membership organised, preferably before the 23rd of July, to ensure you have the loyalty points.
 Hopefully there will be more positive news in a month or two.
 
 The local membership is running from July for 2021/22 and details on that can be found on our [Membership Page](https://www.melbournechelsea.com.au/membership/).
