@@ -41,8 +41,8 @@ Get your family and friends involved in that too. Their App was only introduced 
 
 #### Chelsea FC Membership
 This is a membership directly with Chelsea FC which they are running for the next season.
-However, travelling from Australia is still the bigger hurdle as the vaccinations are not as frequent here as they are in other parts of the world. If you are hopeful to get across to London in the New Year, and the second half of the season, then it as strongly advised that you buy a Chelsea membership, as the 5 bonus loyalty points they offer are only available up until July 23rd 2021
-See our Stamford Bridge page](https://www.melbournechelsea.com.au/stamfordbridge/) tab for more information. 
+However, travelling from Australia is still the bigger hurdle as the vaccinations are not as frequent here as they are in other parts of the world. If you are hopeful to get across to London in the New Year, and the second half of the season, then it as strongly advised that you buy a Chelsea membership, as the 5 bonus loyalty points they offer are only available up until July 23rd 2021.
+See our [Stamford Bridge page](https://www.melbournechelsea.com.au/stamfordbridge/) tab for more information. 
 
 ![membership](/assets/membership1.jpg)
 
@@ -59,5 +59,5 @@ We run Xmas parties, Foot Golf tournaments and other events throughout the seaso
 
 <br>
 
-\* Whilst stocks last. A replacement item will be supplied.
-\*\* The $20 voucher will only apply if you join before August 31st 2021. Only available to brand new members.
+- \* Whilst stocks last. A replacement item will be supplied.
+- \*\* The $20 voucher will only apply if you join before August 31st 2021. Only available to brand new members.
