@@ -31,6 +31,17 @@ To sign up, please follow the instructions on [this membership form](/assets/mem
 
 <br>
 
+
+## Events
+We run Xmas parties, Foot Golf tournaments and other events throughout the season for members. For this season, events will be worked around any existing restrictions with Covid 19. Hopefully held at Christmas and into the New Year.
+
+- **Foot Golf**: The Terry Cork cup will be played in mid to late November.
+- **Fifa Competition**: At The Crafty Squire a lunchtime Fifa PS4 Competition
+- **Christmas Party**: We arrange a pub party, usually the last match before the 25th, and also an event at a different venue. We’ve been to the races at Moonee Valley, Lawn Bowls and 10 pin bowling.
+
+
+<br>
+
 #### Chelsea's 5th Stand App
 Simply scan the QR code here and that will take you to the Melbourne club on the app where you can register via email or social media.
 Get your family and friends involved in that too. Their App was only introduced a couple of years ago and it has grown the global following of CFC significantly in that time. You can enter competitions and win signed merchandise, directly from Chelsea FC in London.
@@ -48,16 +59,6 @@ See our [Stamford Bridge page](https://www.melbournechelsea.com.au/stamfordbridg
 
 <br>
 
-
-## Events
-We run Xmas parties, Foot Golf tournaments and other events throughout the season for members. For this season, events will be worked around any existing restrictions with Covid 19. Hopefully held at Christmas and into the New Year.
-
-- **Foot Golf**: The Terry Cork cup will be played in mid to late November.
-- **Fifa Competition**: At The Crafty Squire a lunchtime Fifa PS4 Competition
-- **Christmas Party**: We arrange a pub party, usually the last match before the 25th, and also an event at a different venue. We’ve been to the races at Moonee Valley, Lawn Bowls and 10 pin bowling.
-
-
-<br>
 
 - \* Whilst stocks last. A replacement item will be supplied.
 - \*\* The $20 voucher will only apply if you join before August 31st 2021. Only available to brand new members.
