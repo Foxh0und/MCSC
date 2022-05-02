@@ -7,4 +7,5 @@ categories: Events
 ---
 The Crafty Squire will be a "Chelsea ONLY " venue for the FA cup final. Kick off 1.45am 15th May. Watch for our social media posts in the lead up to the match
 KTBFFH
+
 ![trophy](/assets/posts/facup22.jpg)
