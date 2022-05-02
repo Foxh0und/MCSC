@@ -11,8 +11,6 @@ Supporters Club and Chelsea (London) membership organised, preferably before the
 The local membership  runs from July to December every year. Send an email to us for a form or download one from our	
 [Membership Page](https://www.melbournechelsea.com.au/membership/)	from July 2022.
 
-The local membership is running from July for 2021/22 and details on that can be found on our [Membership Page].
-
 Information below on this page is how the system works under normal circumstances.
 
 <br>
