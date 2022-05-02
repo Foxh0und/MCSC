@@ -13,7 +13,7 @@ That is why this website is here. It has been created for the members that get i
 There are about 150 members.
 
 <br>
-__**Membership will be open from July 2022, through to mid-December 2022, for the season 2022/23**__
+**Membership will be open from July 2022, through to mid-December 2022, for the season 2022/23**
 <br>
 
 This is also a **paid** membership and if you live in Metro Melbourne it will cost you $60. $40 if you’re in Country Victoria or inter-state, and even international. These prices include the items being mailed to you 
