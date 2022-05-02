@@ -13,19 +13,18 @@ That is why this website is here. It has been created for the members that get i
 There are about 150 members.
 
 <br>
-__**Membership is open NOW, through to December 18th**__
+__**Membership will be open from July 2022, through to mid-December 2022, for the season 2022/23**__
 <br>
 
-This is also a paid membership and if you live in Metro Melbourne it will cost you $60. $40 if you’re in Country Victoria or inter-state. 
+This is also a **paid** membership and if you live in Metro Melbourne it will cost you $60. $40 if you’re in Country Victoria or inter-state, and even international. These prices include the items being mailed to you 
 We have many members who have moved away but remained part of our club. There are other deals if you have more members in your family or household.
 We sell our MCSC memberships between July and December each year.
 
-For 2021/22 you receive the following items:-
-The season badge and membership card. A MCSC ceramic mug, a fridge magnet*, a $20 food voucher to use at The Crafty Squire**, a bumper sticker, tracked postage of those items to your address and finally the discount code to enjoy 20% off your drinks and food whenever you are at TCS. 
+For 2022/23 you will receive club merchandise items that will include the regular season badge and membership card and hopefully special offers for our chosen venue in the city. Further information on 2022/23 items will be disclosed in July.
 
-To sign up, please follow the instructions on [this membership form](/assets/membershipform.docx).
 
-![membershippack.jpg](/assets/membershippack.jpg)
+To sign up, please follow the instructions on the membership form that we will make 
+available in July. Questions can always be directed at the the club by emailing admin@melbournechelsea.com.au
 
 ![membershipbadges.jpg](/assets/membershipbadges.jpg)
 
