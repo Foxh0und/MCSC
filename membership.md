@@ -22,11 +22,11 @@ This is also a **paid** membership and if you live in Metro Melbourne it will co
 We have many members who have moved away but remained part of our club. There are other deals if you have more members in your family or household.
 We sell our MCSC memberships between July and December each year.
 
-For 2022/23 you will receive club merchandise items that will include the regular season badge and membership card and hopefully special offers for our chosen venue in the city. Further information on 2022/23 items will be disclosed in July.
+For 2022/23 you will receive club merchandise items that will include the regular season badge and membership card and hopefully special offers for our chosen venue in the city. You also get a club scarf, bottle opener/keyring and a bumper sticker of our brand new logo for 2022/23 onwards.
 
 
 To sign up, please follow the instructions on the membership form that we will make 
-available in July. Questions can always be directed at the the club by emailing admin@melbournechelsea.com.au
+available in July. Questions can always be directed at the the club by emailing admin@chelseafcinmelbourne
 
 ![membershipbadges.jpg](/assets/membershipbadges.jpg)
 
@@ -49,12 +49,13 @@ Get your family and friends involved in that too. Their App was only introduced 
 
 ![fifthstandqr](assets/QRCode.jpg)
 
+*The app is “under maintenance” are expected to run into the start of the new season*
+
 <br>
 
 #### Chelsea FC Membership
-This is a membership directly with Chelsea FC which they are running for the next season.
-However, travelling from Australia is still the bigger hurdle as the vaccinations are not as frequent here as they are in other parts of the world. If you are hopeful to get across to London in the New Year, and the second half of the season, then it as strongly advised that you buy a Chelsea membership, as the 5 bonus loyalty points they offer are only available up until July 23rd 2021.
-See our [Stamford Bridge page](https://www.melbournechelsea.com.au/stamfordbridge/) tab for more information. 
+This is a membership directly with Chelsea FC which they are run each season. If you are hopeful to get across to London for the 2022/23 season, then it as strongly advised that you buy this form of Chelsea membership soon, as the 5 bonus loyalty points they offer are only available up until July 22nd 2022. 
+See our [Stamford Bridge page](https://www.melbournechelsea.com.au/stamfordbridge/) tab for more information and to see why timing is so important.
 
 ![membership](/assets/membership1.jpg)
 
@@ -62,4 +63,3 @@ See our [Stamford Bridge page](https://www.melbournechelsea.com.au/stamfordbridg
 
 
 - \* Whilst stocks last. A replacement item will be supplied.
-- \*\* The $20 voucher will only apply if you join before August 31st 2021. Only available to brand new members.
