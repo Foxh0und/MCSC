@@ -25,8 +25,7 @@ We sell our MCSC memberships between July and December each year.
 For 2022/23 you will receive club merchandise items that will include the regular season badge and membership card and hopefully special offers for our chosen venue in the city. You also get a club scarf, bottle opener/keyring and a bumper sticker of our brand new logo for 2022/23 onwards.
 
 
-To sign up, please follow the instructions on the membership form that we will make 
-available in July. Questions can always be directed at the the club by emailing admin@chelseafcinmelbourne
+To sign up, please follow the instructions on the membership form [here](/assets/forms/2022.23 Membership form_YOUR NAME_.docx). Questions can always be directed at the the club by emailing admin@chelseafcinmelbourne
 
 ![membershipbadges.jpg](/assets/membershipbadges.jpg)
 
