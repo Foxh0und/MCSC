@@ -27,6 +27,11 @@ For 2022/23 you will receive club merchandise items that will include the regula
 
 To sign up, please follow the instructions on the membership form [here](/assets/forms/2022.23_Membership_form_YOUR_NAME.docx). Questions can always be directed at the the club by emailing admin@chelseafcinmelbourne
 
+![membershipbadges.jpg](/assets/membershippack.jpg)
+
+
+<br>
+
 ![membershipbadges.jpg](/assets/membershipbadges.jpg)
 
 <br>
@@ -36,7 +41,7 @@ To sign up, please follow the instructions on the membership form [here](/assets
 We run Xmas parties, Foot Golf tournaments and other events throughout the season for members. For this season, events will be worked around any existing restrictions with Covid 19. Hopefully held at Christmas and into the New Year.
 
 - **Foot Golf**: The Terry Cork cup will be played in mid to late November.
-- **Fifa Competition**: At The Crafty Squire a lunchtime Fifa PS4 Competition
+- **Fifa Competition**: A lunchtime Fifa PS4 Competition
 - **Christmas Party**: We arrange a pub party, usually the last match before the 25th, and also an event at a different venue. We’ve been to the races at Moonee Valley, Lawn Bowls and 10 pin bowling.
 
 
@@ -57,8 +62,3 @@ This is a membership directly with Chelsea FC which they are run each season. If
 See our [Stamford Bridge page](https://www.melbournechelsea.com.au/stamfordbridge/) tab for more information and to see why timing is so important.
 
 ![membership](/assets/membership1.jpg)
-
-<br>
-
-
-- \* Whilst stocks last. A replacement item will be supplied.
