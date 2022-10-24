@@ -58,7 +58,7 @@ The 5th round was midweek, but then the 6th round was the third weekend in March
 <br>
 
 
-###*Loyalty Points
+### Loyalty Points
 As previously mentioned, loyalty points are an issue for some home matches.
 Specifically when Chelsea are playing Manchester United, Manchester City, Liverpool, Arsenal, and Tottenham. 
 FOUR of those matches are in 2022, and you will need FIVE points. The one match in 2023, you will need TEN points. 
@@ -69,6 +69,8 @@ There is one other exception, and that is the last home match of the season, whi
 
 Of course it is nice to try and get to one of these bigger fixtures, but we’d recommend that you target one of the other matches if you can. We can pretty much guarantee that you will get a ticket……unless we have another pandemic.
 Domestic cup matches and group stages of any European competition will not need points either, but latter stages of those cup competitions will likely attract loyalty points.
+
+![StamfordBridge4](/assets/ticket4.jpg)
 
 
 As well as loyalty points with Chelsea for each season, we’d love you to remain loyal to the local Melbourne club and continue memberships.
