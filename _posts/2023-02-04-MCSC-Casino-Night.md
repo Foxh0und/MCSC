@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MCSC Casino Night"
-date:   2023-02-06 19:30:59
+date:   2023-02-04 19:30:59
 author: Russ Saunders
 categories: Events
 ---
