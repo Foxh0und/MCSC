@@ -6,6 +6,9 @@ permalink: /stamfordbridge/
 
 **Here’s hoping for a normal season of travel to London, and Chelsea, for season 2022/23**
 
+From 2023/24 any brand new members will incur an extra $20 fee, on top of memberships, if they would like our help to gain home match tickets (dependant on loyalty point basis). Any questions can be directed via [email](admin@chelseafcinmelbourne.com).
+
+
 If you are travelling over to see a match this season you will need to get your Melbourne Chelsea Supporters Club and Chelsea (London) membership organised, preferably before the 22nd of July. It is critical before this date if you want to try and get tickets for matches against the top teams* Send an email to us for a form or download one from our [Membership Page](https://www.melbournechelsea.com.au/membership/)	from July 2022.
 
 Keep reading for how our system works here in Melbourne.
