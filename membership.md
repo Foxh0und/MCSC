@@ -24,9 +24,6 @@ We sell our MCSC memberships between July and December each year.
 
 For 2022/23 you will receive club merchandise items that will include the regular season badge and membership card and hopefully special offers for our chosen venue in the city. You also get a club scarf, bottle opener/keyring and a bumper sticker of our brand new logo for 2022/23 onwards.
 
-
-To sign up, please follow the instructions on the membership form [here](/assets/2022.23_Membership_Form_YOUR NAME_.docx). Questions can always be directed at the the club by emailing admin@chelseafcinmelbourne
-
 ![membershipbadges.jpg](/assets/membershippack.jpg)
 
 
@@ -58,7 +55,6 @@ Get your family and friends involved in that too. Their App was only introduced 
 <br>
 
 #### Chelsea FC Membership
-This is a membership directly with Chelsea FC which they are run each season. If you are hopeful to get across to London for the 2022/23 season, then it as strongly advised that you buy this form of Chelsea membership soon, as the 5 bonus loyalty points they offer are only available up until July 22nd 2022. 
-See our [Stamford Bridge page](https://www.melbournechelsea.com.au/stamfordbridge/) tab for more information and to see why timing is so important.
+This is a membership directly with Chelsea FC which they are run each season. If you are hopeful to get across to London for the 2023/24 season, then it as strongly advised that you buy this form of Chelsea membership, along with ours.
 
 ![membership](/assets/membership1.jpg)
