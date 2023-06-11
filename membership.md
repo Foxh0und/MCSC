@@ -10,11 +10,11 @@ They are all different and give you different benefits.
 #### Melbourne Chelsea Supporters Club
 We have our own club set up here in Melbourne that has been running, with a higher level of organisation, since 2013. 
 That is why this website is here. It has been created for the members that get involved in our “local” club.
-There are about 150 members.
-
+There are about 150 members. Please send an email to admin@chelseafcinmelbourne.com if you would like to apply for membership.
+ 
 <br>
 
-**Membership will be open from July 2022, through to mid-December 2022, for the season 2022/23**
+**Membership will be open from July 2023, through to mid-December 2023, for the season 2023/24**
 
 <br>
 
@@ -22,9 +22,24 @@ This is also a **paid** membership and if you live in Metro Melbourne it will co
 We have many members who have moved away but remained part of our club. There are other deals if you have more members in your family or household.
 We sell our MCSC memberships between July and December each year.
 
-For 2022/23 you will receive club merchandise items that will include the regular season badge and membership card and hopefully special offers for our chosen venue in the city. You also get a club scarf, bottle opener/keyring and a bumper sticker of our brand new logo for 2022/23 onwards.
+For 2023/24 you will receive club items which will include a backpack, stubby holder, season badge, and membership card. The latter will give you deals at our chosen venue to watch matches in Melbourne. A club bumper sticker is also included. Previous season items are also available, please refer to the [membership](https://www.chelseafcinmelbourne.com/Merchandise/) tab for more details and send an email if you would like anything extra.
 
-![membershipbadges.jpg](/assets/membershippack.jpg)
+![2023badge.jpg](/assets/2023badge.jpg)
+
+<br>
+
+![2023backpack1.jpg](/assets/2023backpack1.jpg)
+<br>
+
+![2023backpack2.jpg](/assets/2023backpack2.jpg)
+
+<br>
+
+![2023stubby1.jpg](/assets/2023stubby1.jpg)
+
+<br>
+
+![2023stubby2.jpg](/assets/2023stubby2.jpg)
 
 
 <br>
@@ -55,6 +70,6 @@ Get your family and friends involved in that too. Their App was only introduced 
 <br>
 
 #### Chelsea FC Membership
-This is a membership directly with Chelsea FC which they are run each season. If you are hopeful to get across to London for the 2023/24 season, then it as strongly advised that you buy this form of Chelsea membership, along with ours.
+This is a membership directly with Chelsea FC which they are run each season. If you are hopeful to get across to London for the 2023/24 season, then it as strongly advised that you buy this form of Chelsea membership as soon as they become available, please check the Chelsea FC website.
 
 ![membership](/assets/membership1.jpg)
