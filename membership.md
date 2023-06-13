@@ -22,7 +22,7 @@ This is also a **paid** membership and if you live in Metro Melbourne it will co
 We have many members who have moved away but remained part of our club. There are other deals if you have more members in your family or household.
 We sell our MCSC memberships between July and December each year.
 
-For 2023/24 you will receive club items which will include a backpack, stubby holder, season badge, and membership card. The latter will give you deals at our chosen venue to watch matches in Melbourne. A club bumper sticker is also included. Previous season items are also available, please refer to the [membership](https://www.chelseafcinmelbourne.com/Merchandise/) tab for more details and send an email if you would like anything extra.
+For 2023/24 you will receive club items which will include a backpack, stubby holder, season badge, and membership card. The latter will give you deals at our chosen venue to watch matches in Melbourne. A club bumper sticker is also included. Previous season items are also available, please refer to the [merchandise](https://www.chelseafcinmelbourne.com/Merchandise/) tab for more details and send an email if you would like anything extra.
 
 ![2023badge.jpg](/assets/2023badge.jpg)
 
