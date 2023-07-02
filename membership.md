@@ -10,7 +10,7 @@ They are all different and give you different benefits.
 #### Melbourne Chelsea Supporters Club
 We have our own club set up here in Melbourne that has been running, with a higher level of organisation, since 2013. 
 That is why this website is here. It has been created for the members that get involved in our “local” club.
-There are about 150 members. Please send an email to admin@chelseafcinmelbourne.com if you would like to apply for membership.
+There are about 150 members. **Please send an email to admin@chelseafcinmelbourne.com if you would like to apply for membership.**
  
 <br>
 
@@ -29,9 +29,6 @@ For 2023/24 you will receive club items which will include a backpack, stubby ho
 <br>
 
 ![2023backpack1.jpg](/assets/2023backpack1.jpg)
-<br>
-
-![2023backpack2.jpg](/assets/2023backpack2.jpg)
 
 <br>
 
