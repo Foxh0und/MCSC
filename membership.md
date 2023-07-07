@@ -67,6 +67,6 @@ Get your family and friends involved in that too. Their App was only introduced 
 <br>
 
 #### Chelsea FC Membership
-This is a membership directly with Chelsea FC which they are run each season. If you are hopeful to get across to London for the 2023/24 season, then it as strongly advised that you buy this form of Chelsea membership as soon as they become available, please check the Chelsea FC website.
+This is a membership directly with Chelsea FC which they are run each season. If you are hopeful to get across to London for the 2023/24 season, then it as strongly advised that you buy this form of Chelsea membership as soon as they become available, please check [the Chelsea FC website](https://www.chelseafc.com/en/chelsea-official-memberships).
 
 ![membership](/assets/membership1.jpg)
