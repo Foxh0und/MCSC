@@ -13,6 +13,9 @@ Within your email please include the answers to the following questions. (Perhap
 3. How far from Melbourne CBD do you live?
 4. How long have you been supporting Chelsea FC?
 5. Have you ever had paid membership with CFC in London?
+6. Do you follow any of our social media? If yes, which ones and how long for.
+7. Do you always watch matches at home or have you been to our chosen pub to watch in the city?
+
 
 Thank you.
 
