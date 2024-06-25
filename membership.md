@@ -35,7 +35,7 @@ For 2024/25 you will receive club items which will include a thermos water bottl
 
 <br>
 
-![2024card.jpg](/assets/2024card.jpg)
+![2024card.jpg](/assets/2024card.jpeg)
 
 
 <br>
