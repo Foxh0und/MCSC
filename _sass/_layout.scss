@@ -126,20 +126,25 @@ pre code.hljs {
     position: relative;
   }
   .logo {
-    float: left;
-    height: 4em;
-    @include media ($tablet) {
-    	padding-left: $em-base;
-    }
-    img {
-      max-height: 2.5em;
-      margin-top: 0.75em;
-      padding-right: 1em;
-    }
-    span {
-    	font-size: 1.25em;
-    }
-  }
+	  height: 4em;
+	  display: flex;
+	  align-items: center;
+	  @include media ($tablet) {
+	    padding-left: $em-base;
+	  }
+	  img {
+	    max-height: 2.5em;
+	    margin-top: 0.75em;
+	    padding-right: 1em;
+	    display: block;
+	  }
+	  span {
+	    font-size: 1.25em;
+	  }
+	  position: relative; // Ensure it's positioned correctly
+	  z-index: 10; // Ensure it's on top
+	  width: auto; // Ensure width is sufficient
+	}
   nav {
     float: none;
     padding: 1.25em 0;
