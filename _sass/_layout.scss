@@ -120,6 +120,9 @@ pre code.hljs {
   .navigation-wrapper {
   	@include outer-container;
     @include clearfix;
+		display: flex; // Use flexbox for layout
+    align-items: center; // Center items vertically
+    justify-content: space-between; // Space between logo and navigation
     position: relative;
   }
   .logo {
@@ -146,32 +149,23 @@ pre code.hljs {
     }
   }
   ul.navigation-menu {
-    clear: both;
-    display: none;
-    margin: 0 auto;
-    overflow: visible;
+    display: flex; // Align items horizontally
+    margin: 0;
     padding: 0;
-    width: 100%;
+    list-style: none; // Remove default list styling
+    width: auto; // Auto width to fit content
     @include media ($tablet) {
-      display: block;
-      margin: 0;
-      padding: 0;
+      display: flex; // Ensure menu is flexbox on tablets
     }
     &.show {
-      display: block;
+      display: flex; // Show navigation items when menu is active
     }
   }
   // Nav items
   ul li.nav-link {
-    display: block;
-    text-align: right;
-    width: 100%;
-    padding: 0.25em 0;
+    margin: 0 0.5em; // Add horizontal spacing
     @include media ($tablet) {
-      background: transparent;
-      display: inline;
-      text-decoration: none;
-      width: auto;
+      display: inline-block; // Ensure items align horizontally on tablets
     }
   }
   li.nav-link {
