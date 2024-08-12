@@ -392,25 +392,48 @@ pre code.hljs {
 	*	Contact Info (center)
 	*/
 	.site-contact {
-		margin-top: 1em;
-		@include span-columns(6);
-		@include media ($mobile) {
-			@include span-columns(6);
-			margin-top: 0;
-			margin-right: 0;
-		}
-		@include media ($tablet) {
-			@include span-columns(4);
-			margin-top: 0;
-		}
-		font-size: 0.9em;
-		i {
-			text-align: center;
-		}
-		ul {
-			@extend %default-ul;
-		}
-	}
+  margin-top: 1em;
+  @include span-columns(6);
+  @include media ($mobile) {
+    @include span-columns(6);
+    margin-top: 0;
+    margin-right: 0;
+  }
+  @include media ($tablet) {
+    @include span-columns(4);
+    margin-top: 0;
+  }
+  font-size: 0.9em;
+
+  ul {
+    @extend %default-ul;
+    list-style: none; // Remove default list styling
+    padding: 0; // Remove default padding
+    margin: 0; // Remove default margin
+  }
+
+  li {
+    margin-bottom: 10px; // Space between list items
+    display: flex; // Align items horizontally
+    align-items: center; // Center items vertically
+  }
+
+  a {
+    display: flex; // Align icon and text horizontally
+    align-items: center; // Center icon and text vertically
+    text-decoration: none; // Remove underline from links
+  }
+
+  i {
+    margin-right: 8px; // Space between icon and text
+  }
+
+  .username {
+    white-space: nowrap; // Prevent text from wrapping
+    overflow: hidden; // Hide overflow text
+    text-overflow: ellipsis; // Show ellipsis if text is too long
+  }
+}
 	/*
 	*	Site Description/Signature (right)
 	*/
