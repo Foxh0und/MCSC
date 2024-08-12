@@ -52,11 +52,11 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-  - name: Twitter
-    icon: twitter
+  - name: X
+    icon: square-x-twitter
     username: Melbourne_Blues
-    url: https://twitter.com/Melbourne_Blues
-    desc: Follow us on Twitter
+    url: https://x.com/Melbourne_Blues
+    desc: Follow us on X
     share: true
 
   - name: Facebook
