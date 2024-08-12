@@ -392,52 +392,41 @@ pre code.hljs {
 	*	Contact Info (center)
 	*/
 	.site-contact {
-  margin-top: 1em;
-  @include span-columns(6);
-  @include media ($mobile) {
-    @include span-columns(6);
-    margin-top: 0;
-    margin-right: 0;
-  }
-  @include media ($tablet) {
-    @include span-columns(4);
-    margin-top: 0;
-  }
-  font-size: 0.9em;
-
-  /* Style for the unordered list */
-  ul {
-    @extend %default-ul;
-    list-style: none; /* Remove default list styling */
-    padding: 0; /* Remove default padding */
-    margin: 0; /* Remove default margin */
-  }
-
-  /* Style for list items */
-  li {
-    margin-bottom: 10px; /* Space between list items */
-    display: flex; /* Align items horizontally */
-    align-items: center; /* Center items vertically */
-  }
-
-  /* Style for links */
-  a {
-    display: flex; /* Align icon and text horizontally */
-    align-items: center; /* Center icon and text vertically */
-    text-decoration: none; /* Remove underline from links */
-  }
-
-  /* Style for icons */
-  i {
-    margin-right: 8px; /* Space between icon and text */
-  }
-
-  /* Style for username */
-  .username {
-    white-space: nowrap; /* Prevent text from wrapping */
-    overflow: hidden; /* Hide overflow text */
-    text-overflow: ellipsis; /* Show ellipsis if text is too long */
-  }
+		margin-top: 1em;
+		@include span-columns(6);
+		@include media ($mobile) {
+			@include span-columns(6);
+			margin-top: 0;
+			margin-right: 0;
+		}
+		@include media ($tablet) {
+			@include span-columns(4);
+			margin-top: 0;
+		}
+		font-size: 0.9em;
+		i {
+			text-align: center;
+		}
+		ul {
+			@extend %default-ul;
+		}
+	}
+	/*
+	*	Site Description/Signature (right)
+	*/
+	.site-signature {
+		margin-top: 1em;
+		@include span-columns(12);
+		@include media ($tablet) {
+			@include span-columns(4);
+			margin-right: 0;
+			margin-top: 0;
+		}
+		font-size: 0.9em;
+		a {
+			text-decoration: underline;
+		}
+	}
 }
 
 .column {
