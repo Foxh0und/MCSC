@@ -53,7 +53,7 @@ descriptions:
 #     share: true                           # Include in the "Share" section of posts
 social:
   - name: X
-    icon: square-x-twitter
+    icon: x-twitter
     username: Melbourne_Blues
     url: https://x.com/Melbourne_Blues
     desc: Follow us on X
