@@ -17,7 +17,7 @@ When the time difference isn't 11 hours from the UK, there could be more opportu
 For example, matchday one at 1.30am on Monday 19th August will be an option when it wasn't at previous venues.
 
 Members of the Official Supporters Club will enjoy a discount on drinks on production of their membership card.
-Not a member? See the [membership](https://www.chelseafcinmelbourne.com/Membership/) tab on our website for further details. 
+Not a member? See the [membership](https://www.chelseafcinmelbourne.com/membership/) tab on our website for further details. 
 
 The MCSC committee look forward to using the Exford Hotel. 
 
