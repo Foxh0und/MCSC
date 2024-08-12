@@ -167,6 +167,7 @@ pre code.hljs {
     @include media ($tablet) {
       display: inline-block; // Ensure items align horizontally on tablets
     }
+		white-space: nowrap;
   }
   li.nav-link {
   	a {
