@@ -40,9 +40,13 @@ For 2024/25 you will receive club items which will include a thermos water bottl
 
 <br>
 
+![membershipbadges.jpg](/assets/membershipbadges.jpg)
+
+<br>
+
 
 ## Events
-We run Xmas parties, Foot Golf tournaments and other events throughout the season for members. For this season, events will be worked around any existing restrictions with Covid 19. Hopefully held at Christmas and into the New Year.
+We run Xmas parties, Foot Golf tournaments and other events throughout the season for members.
 
 - **Foot Golf**: The Terry Cork cup will be played in mid to late November.
 - **Fifa Competition**: A lunchtime Fifa PS4 Competition
