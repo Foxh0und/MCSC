@@ -10,7 +10,7 @@ We have an assortment of MCSC Merchandise for sale.
 Prices are discounted for all MCSC members.
 Postage costs on top for most items
 
-- MCSC Scarf (2 options) - $20 each or 2 for $3
+- MCSC Scarf (2 options) - $20 each or 2 for $30
 - MCSC Keyring/bottle opener - $5
 - MCSC Stubby Holder $5
 - **NEW** MCSC Beanie - $30  FREE postage for orders of 2 or more. *depending on your location.
