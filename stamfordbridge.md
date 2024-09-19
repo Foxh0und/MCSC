@@ -25,8 +25,6 @@ With your email, please give us some background information about you.
 
 **Now continue reading for how “our” system works here in Melbourne.**
 
-Now continue reading for how “our” system works here in Melbourne:
-
 There have been plenty of disturbing stories that tell of people paying excessive
 amounts for a match ticket via ticket agencies in London and also via ‘touts’
 (scalpers) near the ground.
@@ -57,13 +55,15 @@ Each match has an order period and you will need to email us with the informatio
 At the same time you will need to make payment for the match tickets.
 You pay us, we pay Chelsea FC.
 
-If you’re only just thinking about a trip for season 2024/25, it’s worth buying the Chelsea membership at least.
-This assistance from us is NOT AVAILABLE after mid December 2024, as that is the cut-off date dictated by Chelsea for adding members to our Melbourne list.
+If you’re only **just thinking about a trip for season 2024/25**, it’s worth buying the Chelsea membership at least.
+This assistance from us is **NOT AVAILABLE after mid December 2024**, as that is the cut-off date dictated by Chelsea for adding members to our Melbourne list.
+
+#### PLEASE NOTE :- The MCSC Executive Committee reserves the right to assist who they choose for home match tickets
 
 If you haven’t already booked your travel, it is well worth considering what dates you are there.
 In the second half of the season, the FA cup matches (should we go far in the competition) will impact Premier League matches.
 
-##### *Loyalty Points
+### *Loyalty Points
 As previously mentioned, loyalty points are an issue for some home matches.
 Specifically when Chelsea are playing Manchester United, Manchester City, Liverpool, Ar$enal, and Sp*rs.
 FOUR of those matches will need 10 points, three being late in the season and the Man City match is via last season’s loyalty points so we can’t help new members with that one.
@@ -96,7 +96,7 @@ So, on the rare occasions that the Chelsea Box office asks us to have an order o
 Ultimately we want people to keep helping other supporters.
 It doesn’t work without that.
 
-Russell 
+Russell Saunders\
 MCSC Secretary
 
 #getinvolvedandstayinvolved
