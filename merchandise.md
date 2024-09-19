@@ -35,5 +35,10 @@ To make a purchase, please send us an [email](mailto:admin@chelseafcinmelbourne.
 
 <br>
 
+![MerchandiseSix](/assets/merchandise6.jpg)
+
+<br>
+
 ![MerchandiseFive](/assets/merchandise5.jpg)
+
 
