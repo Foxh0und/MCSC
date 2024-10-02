@@ -1,5 +1,6 @@
+---
 layout: post
-title:  "Forest Home"
+title:  "Forest at Home"
 date:   2024-10-02 00:30:59
 author: Russ Saunders
 categories: Events
