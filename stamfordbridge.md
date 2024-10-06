@@ -18,7 +18,7 @@ Sadly almost 100 "supporters" have done that over the years.
 If you're a true supporter then it should be an instinct to want to be involved with other Chelsea Supporters in Melbourne.
 That's what we think anyway.
 
-See our [membership tab](https://www.chelseafcinmelbourne.com/Stamfordbridge/) on how to join the Melbourne Chelsea Supporters Club
+See our [membership tab](https://www.chelseafcinmelbourne.com/membership/) on how to join the Melbourne Chelsea Supporters Club
 
 Below are some of our Members at The Bridge over the years.
 
