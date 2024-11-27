@@ -6,10 +6,10 @@ author: Russ Saunders
 categories: Events
 ---
 
-Monday 2nd Dec - AVFC at home, half past midnight ko. 
-Monday 23rd Dec - EFC away, 1am ko
-Friday 27th Dec - FFC at home, 2am ko.
-Sunday 5th Jan - CPFC away, 2am ko
+* Monday 2nd Dec - AVFC at home, half past midnight ko.
+* Monday 23rd Dec - EFC away, 1am ko
+* Friday 27th Dec - FFC at home, 2am ko.
+* Sunday 5th Jan - CPFC away, 2am ko
 
 The above matches are the 'only' organised viewings at the Exford Hotel in the CBD.
 
