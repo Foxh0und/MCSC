@@ -12,7 +12,7 @@ We have our own club set up here in Melbourne that has been running, with a high
  
 <br>
 
-**Membership will be open from July 2024, through to mid-December 2024, for the season 2024/25**
+**Membership will be open from July 2024, for the season 2024/25**
 
 <br>
 
