@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "April Pub Options
+title:  "April Pub Options"
 date:   2025-03-31 00:30:59
 author: Russ Saunders
 categories: Events
