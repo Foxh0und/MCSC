@@ -3,9 +3,6 @@ layout: page
 title: Membership
 permalink: /membership/
 ---
-If you live in Melbourne there are **_THREE_** types of membership associated with Chelsea FC that are available to you. 
-It is important not to confuse them with each other. 
-They are all different and give you different benefits.
 
 #### Melbourne Chelsea Supporters Club
 We have our own club set up here in Melbourne that has been running, with a higher level of organisation, since 2013. That is why this website is here. It has been created for the members that get involved in our “local” club. There are around 150 members on our list.  **Please send an email to admin@chelseafcinmelbourne.com if you would like to apply for membership.**
@@ -52,11 +49,6 @@ We run Xmas parties, Foot Golf tournaments and other events throughout the seaso
 <br>
 
 #### Chelsea FC Membership
-This is a membership directly with Chelsea FC which they are run each season. If you are hopeful to get across to London for the 2023/24 season, then it as strongly advised that you buy this form of Chelsea membership as soon as they become available, please check [the Chelsea FC website](https://www.chelseafc.com/en/chelsea-official-memberships).
+This is a membership directly with Chelsea FC. If you are hopeful to get across to London, then it is strongly advised that you buy this form of Chelsea membership, please check [the Chelsea FC website](https://www.chelseafc.com/en/chelsea-official-memberships).
 
 ![membership](/assets/membership1.jpg)
-
-<br>
-
-#### Chelsea's 5th Stand App
-*The app is “under maintenance” are expected to run into the start of the new season*
