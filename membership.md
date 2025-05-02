@@ -5,31 +5,16 @@ permalink: /membership/
 ---
 
 #### Melbourne Chelsea Supporters Club
-We have our own club set up here in Melbourne that has been running, with a higher level of organisation, since 2013. That is why this website is here. It has been created for the members that get involved in our “local” club. There are around 150 members on our list.  **Please send an email to admin@chelseafcinmelbourne.com if you would like to apply for membership.**
+We have our own club set up here in Melbourne that has been running, with a higher level of organisation, since 2013. That is why this website is here. It has been created for the members that get involved in our “local” club. There are around 150 members on our list.
  
 <br>
 
-**Membership will be open from July 2024, for the season 2024/25**
+**Membership is now closed for the current season but it will be open from July 2025, for the season 2025/26.**
 
 <br>
 
 This is also a **paid** membership and if you live in Metro Melbourne it will cost you $65. $45 if you’re in Country Victoria or inter-state, and even international. These prices include the items being mailed to you.
-We have many members who have moved away but remained part of our club. There are other deals if you have more members in your family or household.
-
-For 2024/25 you will receive club items which will include a thermos water bottle, keyring ( torch & bottle opener), season badge, and membership card. The latter will give you deals at our chosen venue to watch matches in Melbourne. A club bumper sticker is also included. Previous season items are also available, please refer to the 
-[merchandise](https://www.chelseafcinmelbourne.com/Merchandise/) tab for more details and send an email if you would like anything extra.
-
-
-![2024Bottle.jpg](/assets/2024Bottle.jpg)
-
-<br>
-
-![2024Flashlight.jpg](/assets/2024Flashlight.jpg)
-
-
-<br>
-
-![2024card.jpg](/assets/2024card.jpeg)
+We have many members who have moved away but remained part of our club. There are other deals if you have more members in your family or household. Merchandise given out for season 2025/26 will be disclosed in June 2025.
 
 
 <br>
