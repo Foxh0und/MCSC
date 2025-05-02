@@ -33,7 +33,7 @@ We run Xmas parties, Foot Golf tournaments and other events throughout the seaso
 
 <br>
 
-#### Chelsea FC Membership
+## Chelsea FC Membership
 This is a membership directly with Chelsea FC. If you are hopeful to get across to London, then it is strongly advised that you buy this form of Chelsea membership, please check [the Chelsea FC website](https://www.chelseafc.com/en/chelsea-official-memberships).
 
 ![membership](/assets/membership1.jpg)
