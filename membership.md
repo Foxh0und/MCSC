@@ -9,12 +9,16 @@ We have our own club set up here in Melbourne that has been running, with a high
  
 <br>
 
-**Membership is now closed for the current season but it will be open from July 2025, for the season 2025/26.**
+Membership is open for the new season 2025/26.
 
 <br>
 
-This is also a **paid** membership and if you live in Metro Melbourne it will cost you $65. $45 if you’re in Country Victoria or inter-state, and even international. These prices include the items being mailed to you.
-We have many members who have moved away but remained part of our club. There are other deals if you have more members in your family or household. Merchandise given out for season 2025/26 will be disclosed in June 2025.
+Our Official Supporters Club is a paid membership and if you live in Metro Melbourne it will cost you $65. If you have family/household  who are Chelsea Supporters too, then their fee is $45.
+It's also $45 if you’re in Country Victoria or inter-state, and even international. These prices include the items being mailed to you. 
+We have many members who have moved away but remained part of our club. 
+Below are photos of the merchandise given out for the new season, 2025/26.
+This season we have a 460ml glass, a shot glass, plus the usual items of season badge, membership card and bumper sticker.
+As you can see,the card and badge theme are for Chelsea's 120 year anniversary.
 
 
 <br>
@@ -23,6 +27,11 @@ We have many members who have moved away but remained part of our club. There ar
 
 <br>
 
+![2025membershipcard.jpg](/assets/2025membershipcard.jpg)
+
+<br>
+
+![2025membershipbeerglass.jpg](/assets/2025membershipbeerglass.jpg)
 
 ## Events
 We run Xmas parties, Foot Golf tournaments and other events throughout the season for members.
