@@ -6,9 +6,9 @@ permalink: /stamfordbridge/
 
 ![StamfordBridge2](/assets/ticket2.jpg)
 
-Our Supporters Club has existed for over 12 seasons now, and for most of those seasons we've have had the ability to assist our members with home match tickets, and plenty of Melbourne members have taken the opportunity at accessing tickets through our "VWR Free" system.
+Our Supporters Club has existed for well over 10 seasons now, and for most of those seasons we've have had the ability to assist our members with home match tickets, and plenty of Melbourne members have taken the opportunity at accessing tickets through our "VWR Free" system.
 
-The important criteria for assistance is that you have joined the local club AT LEAST ONE season prior to your planned visit to Stamford Bridge.
+The important criteria for assistance is that you have joined the local club **AT LEAST ONE** season prior to your planned visit to Stamford Bridge. There may be some circumstances where we will offer to help. If you're new to Melbourne for example, but it's best to send an email to start a line of communication
 
 If a trip is on your radar in the future then you should join the Melbourne Club NOW.
 
