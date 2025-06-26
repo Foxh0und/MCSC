@@ -23,10 +23,6 @@ As you can see,the card and badge theme are for Chelsea's 120 year anniversary.
 
 <br>
 
-![membershipbadges.jpg](/assets/membershipbadges.jpg)
-
-<br>
-
 ![2025membershipcard.jpg](/assets/2025membershipcard.jpg)
 
 <br>
