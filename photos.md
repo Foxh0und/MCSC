@@ -64,5 +64,5 @@ Some past photos of previous MCSC events and occasions.
 
 <br>
 
-![eleven](/assets/photos/eleven.jpg)
-<center><i>Club Secretary Russell Saunders with the FA cup in Perth, July 2018</i></center>
+![membershipbadges.jpg](/assets/membershipbadges.jpg)
+
