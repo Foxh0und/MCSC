@@ -15,6 +15,7 @@ Postage costs on top for most items
 - MCSC Stubby Holder $5
 - **NEW** MCSC Beanie - $30  FREE postage for orders of 2 or more. *depending on your location.
 - MCSC Face Mask - 3 for $15
+- MCSC Thermos with temperature indicator. 500ml size. $15 each plus P&P or buy two for $25 with FREE postage (depending on your location)
 
 
 To make a purchase, please send us an [email](mailto:admin@chelseafcinmelbourne.com.au).
@@ -40,5 +41,9 @@ To make a purchase, please send us an [email](mailto:admin@chelseafcinmelbourne.
 <br>
 
 ![MerchandiseFive](/assets/merchandise5.jpg)
+
+<br>
+
+![MCSCThermos](/assets/mcscthermos.jpg)
 
 
