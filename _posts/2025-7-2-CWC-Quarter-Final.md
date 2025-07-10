@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Club World Cup - Semi Final"
+title:  "Club World Cup - Quarter Final"
 date:   2025-07-02 00:30:59
 author: Russ Saunders
 categories: Events
