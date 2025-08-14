@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Season-Launch"
+title:  "Season Launch"
 date:   2025-08-14
  00:30:59
 author: Dan Thorne
