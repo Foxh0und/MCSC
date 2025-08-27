@@ -6,7 +6,10 @@ date:   2025-08-14
 author: Dan Thorne
 categories: Events
 ---
-
-Welcome back, CWC done and conquered! World Champions back to start the Premier League Season, and MCSC is ready to start our season Launch. We've got the Chelsea Season Opener at the Exford Hotel on Sunday Night, and then fhe following week we have Fulham Away on Saturday the 30th of August at CQ Bar, with a 730 Start to watch the game! See you there!
+🔵 MELBOURNE BLUES! 🔵
+We’ve got a rare early kick-off. Join us at CQ Bar Melbourne on Saturday 30 August as Chelsea take on Fulham!
+📍 CQ Bar Melbourne - Level 1, 113 Queen Street
+🕘 Kick-off: 9:30pm
+💳 MCSC Members - show your card for 15% off drinks! 🍺
 
 ![2025 Season Opener](/assets/posts/2025Opener.jpg)
