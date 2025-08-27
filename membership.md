@@ -20,6 +20,10 @@ Below are photos of the merchandise given out for the new season, 2025/26.
 This season we have a 460ml glass, a shot glass, plus the usual items of season badge, membership card and bumper sticker.
 As you can see,the card and badge theme are for Chelsea's 120 year anniversary.
 
+If you are keen to buy a membership, please download this word doc below and follow the instructions within, ensuring you email it to both club email addresses, as requested on the form.
+
+[MembershipForm](/assets/2025.26MembershipForm_YOUR NAME_.docx)
+
 
 <br>
 
