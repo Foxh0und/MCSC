@@ -19,8 +19,8 @@ A couple of former players have even made it to our club, Charlie Cooke and Paul
 - **Secretary**: Russell Saunders
 - **Chairman**: Jocky Clelland
 - **Treasurer**: Daniel Thorne
-- **Ex-Offico Member**: Tim Honcoop
-- **Ex-Offico Member**: Carlo Dalla-Valle
+- **Ex-Offico Member**: Ross Collins
+- **Ex-Offico Member**: Conor Wylie
 - **IT Administrator**: Adam Miritis
 
 <br>
