@@ -21,6 +21,7 @@ A couple of former players have even made it to our club, Charlie Cooke and Paul
 - **Treasurer**: Daniel Thorne
 - **Ex-Offico Member**: Ross Collins
 - **Ex-Offico Member**: Conor Wylie
+- **Ex-Offico Member**: Hayden Atherton
 - **IT Administrator**: Adam Miritis
 
 <br>
