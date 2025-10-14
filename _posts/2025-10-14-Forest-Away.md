@@ -16,4 +16,4 @@ We will be at the Exford Hotel for this, with the upstairs bar open from 7:30pm,
 Don’t forget to join MCSC this season to enjoy drink discounts, a members’ pack, and plenty of in-season comps.
 
 
-![2025 Season Opener](/assets/posts/2025_forest.jpg)
+![2025 Forest Away](/assets/posts/2025_forest.jpg)
