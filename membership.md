@@ -4,6 +4,8 @@ title: Membership
 permalink: /membership/
 ---
 
+**Membership to the Official Melbourne Club for the 2025/26 season closes on December 31st** 
+
 #### Melbourne Chelsea Supporters Club
 We have our own club set up here in Melbourne that has been running, with a higher level of organisation, since 2013. That is why this website is here. It has been created for the members that get involved in our “local” club. There are around 150 members on our list.
  
