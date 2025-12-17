@@ -11,5 +11,5 @@ Let's head into Christmas with Newcastle at home! Come down to CQ, and enjoy a g
 ![2025 Christmas](/assets/posts/2025_christmas.png)
 
 * 📍 CQ Bar - Level 1, 113 Queen Street
-* 🕘 Kick-off: 10:30pm
+* 🕘 Kick-off: 11:30pm
 * 💳 MCSC Members - show your card for 15% off drinks! 🍺
