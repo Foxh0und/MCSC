@@ -24,8 +24,6 @@ As you can see,the card and badge theme are for Chelsea's 120 year anniversary.
 
 If you are keen to buy a membership, please download this word doc below and follow the instructions within, ensuring you email it to both club email addresses, as requested on the form.
 
-[Membership Form](https://github.com/Foxh0und/MCSC/raw/refs/heads/master/assets/2025.26MembershipForm_YOUR%20NAME_.docx)
-
 <br>
 
 ![2025membershipcard.jpg](/assets/2025membershipcard.jpg)
