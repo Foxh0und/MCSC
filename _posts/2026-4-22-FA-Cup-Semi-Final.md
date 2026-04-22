@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "FA Cup Semi Final
+title:  "FA Cup Semi Final"
 date:   2026-04-22
  00:30:59
 author: Russ Saunders
