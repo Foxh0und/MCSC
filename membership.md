@@ -11,18 +11,9 @@ We have our own club set up here in Melbourne that has been running, with a high
  
 <br>
 
-Membership is open for the new season 2025/26.
 
-<br>
-
-Our Official Supporters Club is a paid membership and if you live in Metro Melbourne it will cost you $65. If you have family/household  who are Chelsea Supporters too, then their fee is $45.
-It's also $45 if you’re in Country Victoria or inter-state, and even international. These prices include the items being mailed to you. 
-We have many members who have moved away but remained part of our club. 
-Below are photos of the merchandise given out for the new season, 2025/26.
-This season we have a 460ml glass, a shot glass, plus the usual items of season badge, membership card and bumper sticker.
-As you can see,the card and badge theme are for Chelsea's 120 year anniversary.
-
-If you are keen to buy a membership, please download this word doc below and follow the instructions within, ensuring you email it to both club email addresses, as requested on the form.
+Membership for our Melbourne Club will open from July 1st and close in mid December. 
+Further details will be updated on this page later this month.
 
 <br>
 

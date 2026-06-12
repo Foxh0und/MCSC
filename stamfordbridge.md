@@ -6,17 +6,10 @@ permalink: /stamfordbridge/
 
 ![StamfordBridge2](/assets/ticket2.jpg)
 
-Our Supporters Club has existed for well over 10 seasons now, and for most of those seasons we've have had the ability to assist our members with home match tickets, and plenty of Melbourne members have taken the opportunity at accessing tickets through our "VWR Free" system.
+The Official Supporters Club has given members access to home match tickets for a number of seasons.
+Each year the Chelsea Ticket Office changes the process and we will update here once we know more.
 
-The important criteria for assistance is that you have joined the local club **AT LEAST ONE** season prior to your planned visit to Stamford Bridge. There may be some circumstances where we will offer to help. If you're new to Melbourne for example, but it's best to send an email to start a line of communication
-
-If a trip is on your radar in the future then you should join the Melbourne Club NOW.
-
-The Chelsea Ticket Office stipulation is that people are a member of the supporters club to gain assistance with match tickets.
-Our Melbourne executive committee have grown tired of assisting people who simply use us like a ticket agency and that is stopping.
-Sadly almost 100 "supporters" have done that over the years.
-If you're a true supporter then it should be an instinct to want to be involved with other Chelsea Supporters in Melbourne.
-That's what we think anyway.
+The MCSC committee will also advise on the 'local criteria' required for our assistance, along with the minimum purchase of a CFC Blue Membership that each adult person needs.
 
 See our [membership tab](https://www.chelseafcinmelbourne.com/membership/) on how to join the Melbourne Chelsea Supporters Club
 
