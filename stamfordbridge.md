@@ -11,7 +11,7 @@ Using a Supporters Club is one of the easiest ways to buy a ticket to watch Chel
 
 If you are travelling over to see a match this season you will need to buy a [Chelsea (London) membership](https://memberships.chelseafc.com/en ). You will NEED to buy this membership before September 30th, and tell us your details, else we cannot add you to our list. Your minimum purchase must be the “CFC Blue” tier membership.
 
-![StamfordBridge4](/assets/membershiptier.jepg)
+![Membership Tier](/assets/membershiptier.jepg)
 
 A local, Melbourne Chelsea, membership can be bought between July and December every year and is not essential to get our help with tickets, however you would avoid admin fees in future seasons if you bought a Melbourne membership and renewed it each year. If you are new to asking our help then **an admin fee will apply**, per person.
 Admin fees will also apply to existing local Melbourne members if your membership is under 3 seasons.
@@ -81,7 +81,14 @@ That said on the rare occasions that the Chelsea Ticket Office asks us to have a
 If a particular fixture happens to be popular among travelling supporters (i.e. Xmas) then we will be submitting a preferred list.
 If a list is 8 people or above, then we start to get nervous about the number of tickets that will be allocated by the Ticket Office.
 
-Russell 
+Russell
+
 MCSC Secretary
+
 30th June 2026
+
 #getinvolvedandstayinvolved
+
+
+
+
