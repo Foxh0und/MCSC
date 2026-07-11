@@ -81,6 +81,10 @@ That said on the rare occasions that the Chelsea Ticket Office asks us to have a
 If a particular fixture happens to be popular among travelling supporters (i.e. Xmas) then we will be submitting a preferred list.
 If a list is 8 people or above, then we start to get nervous about the number of tickets that will be allocated by the Ticket Office.
 
+
+Finally, if you secure tickets via our club, you are expected to purchase the London membership for the following season too. This helps us reach our required number of 30.
+
+
 Russell
 
 MCSC Secretary
