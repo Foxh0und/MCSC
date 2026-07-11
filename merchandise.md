@@ -20,10 +20,6 @@ Postage costs on top for most items
 
 To make a purchase, please send us an [email](mailto:admin@chelseafcinmelbourne.com.au).
 
-![MerchandiseOne](/assets/merchandise1.jpg)
-
-<br>
-
 ![MerchandiseTwo](/assets/merchandise2.jpg)
 
 <br>
