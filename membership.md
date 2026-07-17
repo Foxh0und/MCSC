@@ -21,6 +21,10 @@ A toiletries bag, a string backpack and a multi-device charging cable which acco
 
 ![2026membership](/assets/2026membershippack.jpeg)
 
+<br>
+
+![2627badges](/assets/badge2627.jpg)
+
 
 Being a member will also earn you a discount on drinks at our two venues that we use to watch matches (CQ Bar and Exford Hotel), so ensure you keep the card with you if you venture to the city.
 CQ Bar offers discounts on non-matchdays too.

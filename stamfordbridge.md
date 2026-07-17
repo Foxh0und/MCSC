@@ -46,9 +46,7 @@ Chelsea FC currently use digital tickets for all home matches and the majority o
 
 If you’re only just thinking about a trip for a season, it’s worth buying the Chelsea membership and registering with us NOW. 
 
-This assistance is available from us.
-
-**NOT AVAILABLE after 30th September,**
+This assistance is not available from us after 30th September.
 
 That is the cut-off date dictated by Chelsea FC ticket office for adding members to our Melbourne list.
 $90 is a small price to pay compared to the horror prices we hear about from 3rd parties.
