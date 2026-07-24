@@ -7,13 +7,14 @@ Off to London, and you plan on watching Chelsea?
 We may be able to assist with ‘home’ match tickets only. 
 Using a Supporters Club is one of the easiest ways to buy a ticket to watch Chelsea at Stamford Bridge.
 
+<br>
+
+Please be aware that all assistance is administered by the club committee (basically, another supporter), so please be courteous when sending correspondence. It's a thankless task dealing with the Chelsea Ticket Office.
+
 ![StamfordBridge2](/assets/ticket2.jpg)
 
 If you are travelling over to see a match this season you will need to buy a [Chelsea (London) membership](https://memberships.chelseafc.com/en ). You will NEED to buy this membership before September 30th, and tell us your details, else we cannot add you to our list. Your minimum purchase must be the “CFC Blue” tier membership.
 
-<br>
-
-Please be aware that all assistance is administered by the club committee (basically, another supporter), so please be courteous when sending correspondence. It's a thankless task dealing with the Chelsea Ticket Office.
 
 ![Membership Tier](/assets/membershiptier.jpeg)
 
