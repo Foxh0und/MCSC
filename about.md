@@ -16,12 +16,13 @@ We do run a local paid membership, and have done so since 2013. Many members hav
 As part of the membership we have run plenty of functions over the years, as kick off times for Chelsea are not usually too kind for social activity. Indoor Futsal, Xmas Parties, Curry Nights, Pub Crawls and also Foot Golf.
 A couple of former players have even made it to our club, Charlie Cooke and Paul Canoville.
 
+**Below is our elected committee who are all Chelsea Supporters and DO NOT get paid for their efforts in running the club. 
+If you need to contact us then please do so in a polite manner, especially if you are after assistance in any form.**
+
 - **Secretary**: Russell Saunders
 - **Chairman**: Jocky Clelland
 - **Treasurer**: Daniel Thorne
-- **Ex-Offico Member**: Ross Collins
 - **Ex-Offico Member**: Conor Wylie
-- **Ex-Offico Member**: Hayden Atherton
 - **IT Administrator**: Adam Miritis
 
 <br>
