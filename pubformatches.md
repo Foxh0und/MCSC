@@ -3,7 +3,7 @@ layout: page
 title: Pub for Matches
 permalink: /pubformatches/
 ---
-For season 2025/26 we are going to be watching matches at The Exford Hotel and also at the CQ Bar, both in Melbourne’s CBD.
+For season 2026/27 we are going to be watching matches at The Exford Hotel and also at the CQ Bar, both in Melbourne’s CBD.
 
 As a rule, Saturday night matches will all be at CQ and the Sunday matches at the Exford.
 
