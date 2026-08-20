@@ -14,11 +14,6 @@ Some past photos of previous MCSC events and occasions.
 <center><i>Timmy Floyd with TV Show star Matt Preston at the pub for the Europa League Final in 2019</i></center>
 
 
-<br>
-
-![two](/assets/photos/two.jpg)
-<center><i>Members Martin and Andrew at the previous Chelsea Supporters “pub home”, the Fluid Oz on Elizabeth Street in the CBD</i></center>
-
 
 <br>
 
@@ -47,10 +42,6 @@ Some past photos of previous MCSC events and occasions.
 ![seven](/assets/photos/seven.jpg)
 <center><i>Part of the crowd at The Crafty Squire on “that” morning in May 2012……a morning we will never forget</i></center>
 
-<br>
-
-![eight](/assets/photos/eight.jpg)
-<center><i>The Frank Lampard banner. Photo taken at the Burnley home match in January 2020</i></center>
 
 <br>
 
@@ -59,10 +50,22 @@ Some past photos of previous MCSC events and occasions.
 
 <br>
 
-![ten](/assets/photos/ten.jpg)
-<center><i>Outside the ground at Stamford Bridge</i></center>
+![nine](/assets/photos/AuroraHotel.jpg)
+<center><i>A few Melbourne members at the Aurora Hotel on the afternoon before the match in Sydney, August 2026</i></center>
+
+<br>
+
+![nine](/assets/photos/AuroraFlags1.jpg)
+![nine](/assets/photos/AuroraFlags2.jpg)
+<center><i>A few Melbourne members at the Aurora Hotel on the afternoon before the match in Sydney, August 2026</i></center>
+
+<br>
+
+![nine](/assets/photos/CQ.jpg)
+<center><i>CQ Bar in Melbourne where we watch most Saturday night matches (image pre-FA Cup final 2026)</i></center>
 
 <br>
 
 ![membershipbadges.jpg](/assets/membershipbadges.jpg)
+<center><i>MCSC season badges since 2013</i></center>
 
