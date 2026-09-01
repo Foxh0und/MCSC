@@ -32,7 +32,7 @@ A toiletries bag, a string backpack and a multi-device charging cable which acco
 Being a member will also earn you a discount on drinks at our two venues that we use to watch matches (CQ Bar and Exford Hotel), so ensure you keep the card with you if you venture to the city.
 CQ Bar offers discounts on non-matchdays too.
 
-If you are keen to buy a membership, please download [this word doc](/assets/2026.27Membershipform_YOUR NAME.docx) and follow the instructions within, ensuring you email it to both club email addresses, as requested on the form. 
+If you are keen to buy a membership, please download [this word doc](/assets/2026.27 Membership form_YOUR NAME v2.docx) and follow the instructions within, ensuring you email it to both club email addresses, as requested on the form. 
 
 If you’re unsure of what price to pay due to your address, or number of friends/family you’d like to have join with you, then send an email to [admin@melbournechelseafcinmelbourne](mailto:admin@chelseafcinmelbourne.com) and we can clarify for you.
 
