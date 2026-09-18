@@ -154,6 +154,7 @@ pre code.hljs {
     width: 100%;
     @include media ($tablet) {
       display: block;
+      clear: none;
       margin: 0;
       padding: 0;
     }
