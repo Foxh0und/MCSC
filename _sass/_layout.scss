@@ -118,7 +118,7 @@ pre code.hljs {
   }
   // Nav menu
   .navigation-wrapper {
-  	@include outer-container;
+  	@include outer-container(em(1088));
     @include clearfix;
     position: relative;
   }
@@ -155,6 +155,7 @@ pre code.hljs {
     @include media ($tablet) {
       display: block;
       clear: none;
+      width: auto;
       margin: 0;
       padding: 0;
     }
