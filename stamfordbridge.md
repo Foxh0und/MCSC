@@ -3,9 +3,7 @@ layout: page
 title: Stamford Bridge Trips
 permalink: /stamfordbridge/
 ---
-Off to London, and you plan on watching Chelsea? 
-We may be able to assist with ‘home’ match tickets only. 
-Using a Supporters Club is one of the easiest ways to buy a ticket to watch Chelsea at Stamford Bridge.
+**The opportunity to get our assistance for match tickets this season is now closed. (September 30th 2026) All we can do is advise you to buy a Chelsea membership and keep a note of when matches go on sale and also check the Chelsea Ticket Exchange for opportunities to buy a match ticket**
 
 <br>
 
