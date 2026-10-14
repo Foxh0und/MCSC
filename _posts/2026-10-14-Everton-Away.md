@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "MCSC AGM"
-date:   2026-06-12 00:30:59
+title:  "Everton Away"
+date:   2026-06-14 00:30:59
 author: Russ Saunders
 categories: Events
 ---
