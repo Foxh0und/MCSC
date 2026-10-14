@@ -19,8 +19,8 @@ Postage costs on top for most items
 
 <br>
 
-**Coming Soon** A new double sided MCSC Scarf for 2026
-![newscarf2026](/assets/newscarf2026.png)
+**Our new limited edition double sided scarf! Order now before they're sold out. $30 each, discounts for multiple orders**
+![newscarf2026](/assets/newscarf.jpg)
 
 <br>
 
